@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "id": "test-riding-1",
+      "seed": 42,
+      "num_images": 2
+    }
+  ]
+}
