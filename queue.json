@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "id": "test-riding-1",
+      "id": "riding-ref-1",
       "seed": 42,
       "num_images": 2
     }
